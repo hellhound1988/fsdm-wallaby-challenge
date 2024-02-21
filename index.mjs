@@ -23,5 +23,5 @@ for (let i = index; index < cipher.length; index++) {
 console.log(result);
 console.log('\n');
 
-console.log('If you can read the codeword, post it in a comment in https://www.meetup.com/vancouver-full-stack-web-developers/events/298748980/');
-console.log('First two winners will get a prize! 🎁');
+console.log('If you can read the codeword, email it to \'mike.beschastnov [at] gmail.com\'');
+console.log('First three winners will get a prize! 🎁');

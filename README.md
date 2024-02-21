@@ -2,7 +2,7 @@
 
 This challenge is organaized in collaboration with Wallaby.js / Quokka.js / Console Ninja team.
 
-🎁🎁🎁 First **two** winners will receive free licenses 🎁🎁🎁
+🎁🎁🎁 First **tree** winners will get free licenses 🎁🎁🎁
 
 Here are the rules:
 - Code in `index.mjs` is supposed to print the codeword to your terminal
@@ -11,6 +11,6 @@ Here are the rules:
 ```shell
 node index.mjs
 ```
-- as soon as you got the codeword, post it in the comment under FSDM event.
+- as soon as you got the codeword, email it to 'mike.beschastnov \[at] gmail.com' to claim your prize.
 
 Good luck!
