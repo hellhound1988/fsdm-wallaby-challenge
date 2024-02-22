@@ -2,7 +2,7 @@
 
 This challenge is organaized in collaboration with Wallaby.js / Quokka.js / Console Ninja team.
 
-🎁🎁🎁 First **tree** winners will get free licenses 🎁🎁🎁
+🎁🎁🎁 First **three** winners will get free licenses 🎁🎁🎁
 
 Here are the rules:
 - Code in `index.mjs` is supposed to print the codeword to your terminal
