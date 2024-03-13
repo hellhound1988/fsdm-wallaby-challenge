@@ -1,13 +1,13 @@
-# Welcome to the Wallaby Challenge
+# Welcome to the Wallaby De-Cipher Challenge
 
-This challenge is organaized in collaboration with Wallaby.js / Quokka.js / Console Ninja team.
+This is the second FSDM challenge organaized in collaboration with Wallaby.js / Quokka.js / Console Ninja team.
 
-🎁🎁🎁 First **three** winners will get free licenses 🎁🎁🎁
+🎁🎁🎁 First **three** winners will get free licenses for Quokka or Wallaby 🎁🎁🎁
 
 Here are the rules:
-- Code in `index.mjs` is supposed to print the codeword to your terminal
-- However, there are **three** bugs in that code preventing to from seeing the codeword
-- Identify and fix the bugs and run `index.mjs` with node to verify your fixes:
+- `index.mjs` contains two things: a huge pile of letters and an encrypted message
+- Use your brain power to find the cipher key in the pile and use it to de-cipher the message
+- You can run the code using nodejs like this:
 ```shell
 node index.mjs
 ```
